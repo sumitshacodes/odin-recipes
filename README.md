@@ -10,3 +10,6 @@ A simple webpage made during the foundations course on the Odin Project. Clickin
 
 ## Screenshots
 ![Screenshot of the Recipes List](/screenshots/screenshot1.png?raw=true)
+![Screenshot of Biryani Recipe Page](/screenshots/screenshot2.png?raw=true)
+![Screenshot of Dosa Recipe Page](/screenshots/screenshot3.png?raw=true)
+![Screenshot of Matarpulao Recipe Page](/screenshots/screenshot4.png?raw=true)
